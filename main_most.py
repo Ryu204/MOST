@@ -266,7 +266,8 @@ if __name__ == "__main__":
                                     scales,
                                     [w_featmap, h_featmap],
                                     vis_folder,
-                                    im_name
+                                    im_name,
+                                    1
                 )
         # Save the prediction
         if args.dataset in ['ECSSD', 'DUTS', 'DUT-OMRON']:

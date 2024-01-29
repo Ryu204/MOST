@@ -8,3 +8,4 @@ saliency
 most_*
 .venv/*
 dino/*
+outputs/*
