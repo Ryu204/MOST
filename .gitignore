@@ -6,3 +6,5 @@ dino
 datasets
 saliency
 most_*
+.venv/*
+dino/*
