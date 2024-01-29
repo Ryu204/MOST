@@ -1,4 +1,5 @@
 *.sh
+!setup.sh
 *.out
 *.err
 *__pycache__/*
